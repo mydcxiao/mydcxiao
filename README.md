@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mydcxiao
+- 👋 Hi, I’m Yuhang Xiao
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Analysis of Algorithm
 - 💞️ I’m looking to collaborate on Software Development
