@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yuhang Xiao
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Database Systems and Web Technology
+- 🌱 I’m currently learning Machine Learning and Networks
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me: https://www.linkedin.com/in/yuhang-xiao-993538201/?locale=en_US
 
