@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yuhang Xiao
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Machine Learning and Computer Networks
-- 💞️ I’m looking to collaborate on Software Development, Machine Learning Engineering
+- 👀 I’m interested in Software Engineering and Machine Learning/Artificial Intelligence, specifically Multimodal Learning and Computer Vision.
+- 💞️ I’m looking for full-time jobs as a Software Development Engineer, Machine Learning Engineer and Researcher.
 - 📫 How to reach me: https://www.linkedin.com/in/yuhang-xiao-993538201/
 
 <!---
