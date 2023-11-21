@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yuhang Xiao
-- 👀 I’m interested in Software Engineering and Machine Learning/Artificial Intelligence, specifically Multimodal Learning and Computer Vision.
+- 👀 I’m interested in Software Engineering and Machine Learning/Artificial Intelligence, specifically AIGC and LLM.
 - 💞️ I’m looking for full-time jobs as a Software Development Engineer, Machine Learning Engineer and Researcher.
 - 📫 How to reach me: https://www.linkedin.com/in/yuhang-xiao-993538201/
 
