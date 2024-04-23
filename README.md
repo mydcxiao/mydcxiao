@@ -12,7 +12,7 @@ I’m Yuhang Xiao, currently a master student at University of Southern Californ
 # Stats
 
 <p align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table style="border: none; border-collapse: collapse;">
     <tr>
       <td><img src="https://readme-stats-cwvn.vercel.app/api?username=mydcxiao&custom_title=mydcxiao+&border_color=47f0d9&show_icons=true&count_private=true&theme=gotham"></td>
       <td><img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=mydcxiao&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d9"></td>
