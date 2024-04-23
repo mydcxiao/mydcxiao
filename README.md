@@ -13,8 +13,8 @@ I’m Yuhang Xiao, currently a master student at University of Southern Californ
 
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://readme-stats-cwvn.vercel.app/api?username=mydcxiao&custom_title=mydcxiao+&border_color=47f0d9&show_icons=true&count_private=true&theme=gotham" style="margin-right: 10px;">
-    <img src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=mydcxiao&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d9">
+    <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api?username=mydcxiao&custom_title=mydcxiao+&border_color=47f0d9&show_icons=true&count_private=true&theme=gotham" style="margin-right: 10px;">
+    <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=mydcxiao&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d9">
   </div>
 </p>
 
