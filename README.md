@@ -3,11 +3,16 @@ I’m Yuhang Xiao, currently a master student at University of Southern Californ
 - I’m generally interested in Machine Learning/Artificial Intelligence, currently a RA at [iLab](http://ilab.usc.edu/).
 - I’m actively looking for full-time MLE/SDE jobs or research positions.
 - I'm actively looking for interest-driven collaborators to do research together.
+
 <hr>
+
+# Links
 <ul>
   <li><a href="https://mydcxiao.github.io">MyPage</a></li>
   <li><a href="https://linkedin.com/in/mydcxiao">Linkedin</a></li>
 </ul>
+
+<hr>
 
 # Stats
 
