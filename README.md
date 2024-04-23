@@ -8,6 +8,16 @@ I’m Yuhang Xiao, currently a master student at University of Southern Californ
   <li><a href="https://mydcxiao.github.io">MyPage</a></li>
   <li><a href="https://linkedin.com/in/mydcxiao">Linkedin</a></li>
 </ul>
+
+# Stats
+<p align="center">
+  <img src="https://readme-stats-cwvn.vercel.app/api?username=mydcxiao&custom_title=mydcxiao+&border_color=47f0d9&show_icons=true&count_private=true&theme=gotham">
+</p>
+
+<p align="center">
+  <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=mydcxiao&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d9"/>
+</p>
+
 <!---
 mydcxiao/mydcxiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
