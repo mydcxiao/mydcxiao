@@ -18,8 +18,8 @@ I’m Yuhang Xiao, currently a machine learning engineer at TikTok.
 
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img height="200" width="400" src="https://readme-stats-cwvn.vercel.app/api?username=mydcxiao&custom_title=mydcxiao+&border_color=47f0d9&show_icons=true&count_private=true&theme=gotham" style="margin-right: 10px;">
-    <img height="200" width="400" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=mydcxiao&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d9">
+    <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=mydcxiao&custom_title=mydcxiao+&border_color=47f0d9&show_icons=true&count_private=true&theme=gotham" style="margin-right: 10px;">
+    <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mydcxiao&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d9">
   </div>
 </p>
 
